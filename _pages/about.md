@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,6 +9,16 @@ redirect_from:
 About Me
 ======
 My name is Jianlan Ye, I am a Ph.D. candidate at Arizona State University majored in Mechanical Engineering. My research interests include semicrystalline polymers, molecular dynamics simulation, coarse-graining, and high-performance computing.
+
+
+Skills
+===
+ - Programming languages: C++, Python
+ - Acceleration: MPI, Vectorization, threading (OpenMP), CUDA, OpenACC
+ - HPC environment: Slurm, Module, Docker
+ - Machine learning: Pytorch, CNN
+ - Programming tools: Git, GDB, gprof, NSight
+
 
 
 <!--
