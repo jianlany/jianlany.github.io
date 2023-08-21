@@ -1,6 +1,5 @@
 ---
-title: "Demonstration of diffusion speed differences between phaes in semicrystalline polymers"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Visualization of diffusion speed differences between phaes in semicrystalline polymers"
 collection: portfolio
 ---
 
