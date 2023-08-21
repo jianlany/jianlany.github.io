@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jianlan Ye, I am a Ph.D. candidate at Arizona State University majored in Mechanical Engineering. My research interests include semicrystalline polymers, molecular dynamics simulation, coarse-graining, and high-performance computing.
+My name is Jianlan Ye, I am a mechanical engineering Ph.D. candidate at Arizona State University guided by Dr. Jay Oswald. My research interests include semicrystalline polymers, molecular dynamics simulation, coarse-graining, and high-performance computing.
 
 
 Skills
@@ -19,7 +19,6 @@ Skills
  - Machine learning: Pytorch, CNN
  - Programming tools: Git, GDB, gprof, NSight
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jGCi8SbuW-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 

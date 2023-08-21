@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Resume
-======
 [PDF](../files/Resume_MDHPC.pdf)
 
 Education
