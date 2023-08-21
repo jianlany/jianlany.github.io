@@ -19,7 +19,7 @@ Skills
  - Machine learning: Pytorch, CNN
  - Programming tools: Git, GDB, gprof, NSight
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jGCi8SbuW-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
