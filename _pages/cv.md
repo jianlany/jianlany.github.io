@@ -23,7 +23,8 @@ Work experience
   * Wrote benchmark programs and characterized the performance of a new parallel discrete event simulation framework with a hybrid communication model.
   * Conducted large-scale scalability tests of the simulator with up to 32,768 CPUs on the new HPC cluster (Perlmutter).
   * Identified the performance bottlenecks of the under-performed corner cases and improved algorithms that facilitate the synchronization.
-  
+
+
 Skills
 ======
  * Programming languages: C++, Python
@@ -33,6 +34,14 @@ Skills
  * Machine learning: Pytorch, CNN
  * Programming tools: Git, GDB, gprof, NSight
 
+
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+<!--
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -45,8 +54,4 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+-->
