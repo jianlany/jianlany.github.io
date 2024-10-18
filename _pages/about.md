@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jianlan Ye, I am a mechanical engineering Ph.D. candidate at Arizona State University guided by Dr. Jay Oswald. My research interests include semicrystalline polymers, molecular dynamics simulation, coarse-graining, and high-performance computing.
+My name is Jianlan Ye, I am a mechanical engineering Ph.D. candidate at Arizona State University. My research interests include semicrystalline polymers, molecular dynamics simulation, coarse-graining, and high-performance computing.
 
 
 Skills
@@ -15,8 +15,8 @@ Skills
  - Programming languages: C++, Python
  - Molecular dynamics: LAMMPS, VMD
  - Acceleration: MPI, Vectorization, threading (OpenMP), CUDA, OpenACC
- - HPC environment: Slurm, Module, Docker
- - Machine learning: Pytorch, CNN
+ - Environment: Slurm, Module, Docker
+ - Machine learning: Pytorch, CNN, Deep Learning
  - Programming tools: Git, GDB, gprof, NSight
 
 

@@ -15,7 +15,7 @@ Education
 ======
 * B.S. in Huazhong University of Science and Technology, 2014
 * M.S. in Arizona State University, 2015
-* Ph.D. in Arizona State University, 2023 (expected)
+* Ph.D. in Arizona State University, 2024
 
 Work experience
 ======
