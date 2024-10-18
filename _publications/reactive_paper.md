@@ -2,7 +2,7 @@
 title: "Coarse-grained molecular simulation of the role of curing rates on the structure and strength of polyurea"
 collection: publications
 permalink: /publication/reactive_paper
-# excerpt:
+excerpt: The paper presents a reactive coarse-grained molecular model to simulate the effects of curing rates on the structure and mechanical properties of polyurea.
 date: 2023-10-01
 venue: 'Computational Material Science'
 paperurl: 'https://doi.org/10.1016/j.commatsci.2023.112428'

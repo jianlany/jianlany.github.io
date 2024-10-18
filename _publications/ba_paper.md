@@ -2,9 +2,9 @@
 title: "KDE-Based Coarse-graining of Semicrystalline Systems with Correlated Three-body Intramolecular Interaction"
 collection: publications
 permalink: /publication/ba_paper
-# excerpt:
+excerpt: Introduced bond-angle correlation into coarse-graining and reproduced the correlated bond-angle distributions.
 date: 2023-07-09
-# venue: 'SIGSIM-PADS 24: Proceedings of the 38th ACM SIGSIM Conference on Principles of Advanced Discrete Simulation'
+venue: 'arXiv'
 paperurl: 'https://doi.org/10.48550/arXiv.2307.04067'
 ---
 We present an extension to the iterative Boltzmann inversion method to generate coarse-grained models with three-body intramolecular potentials that can reproduce correlations in structural distribution functions. The coarse-grained structural distribution functions are computed using kernel density estimates to produce analytically differentiable distribution functions with controllable smoothening via the kernel bandwidth parameters. Bicubic interpolation is used to accurately interpolate the three-body potentials trained by the method. To demonstrate this new approach, a coarse-grained model of polyethylene is constructed in which each bead represents an ethylene monomer. The resulting model reproduces the radial density function as well as the joint probability distribution of bond-length and bond-angles sampled from target atomistic simulations with only a 10% increase in the computational cost compared to models with independent bond-length and bond-angle potentials. Analysis of the predicted crystallization kinetics of the model developed by the new approach reveals that the bandwidth parameters can be tuned to accelerate the modeling of polymer crystallization. Specifically, computing target RDF with larger bandwidth slows down the secondary crystallization, and increasing the bandwidth in θ-direction of bond-length and bond-angle distribution reduces the primary crystallization rate 

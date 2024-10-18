@@ -2,7 +2,7 @@
 title: "Devastator: A Scalable Parallel Discrete Event Simulation Framework for Modern C++"
 collection: publications
 permalink: /publication/devastator_paper
-# excerpt:
+excerpt: Introduced a hybrid communication model to take advantage of the locality in parallel discrete event simulations.
 date: 2024-06-24
 venue: 'SIGSIM-PADS 24: Proceedings of the 38th ACM SIGSIM Conference on Principles of Advanced Discrete Simulation'
 paperurl: 'https://doi.org/10.1145/3615979.3656061'
