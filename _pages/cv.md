@@ -34,6 +34,12 @@ Skills
  * Machine learning: Pytorch, CNN
  * Programming tools: Git, GDB, gprof, NSight
 
+Publications
+======
+* Liu, M., Ye, J., & Oswald, J. (2023). Coarse-grained molecular simulation of the role of curing rates on the structure and strength of polyurea. *Computational Materials Science*, 230, 112428.
+* Bachan, J., Ye, J., Jiang, X., Nguyen, T., Natarajan, M., Bremer, M., & Chan, C. (2024, June). Devastator: A Scalable Parallel Discrete Event Simulation Framework for Modern C++. In *Proceedings of the 38th ACM SIGSIM Conference on Principles of Advanced Discrete Simulation* (pp. 35-46).
+* Li, Y., Ye, J., Agrawal, V., & Oswald, J. (2024). Dependence of Thermally Activated Relaxation of Crystalline Stems on the Molecular Topology at Crystalline/Amorphous Interfaces in Polyethylene. *Journal of Chemical Theory and Computation*.
+
 
 Teaching
 ======
