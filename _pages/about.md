@@ -11,12 +11,13 @@ My name is Jianlan Ye, I am a mechanical engineering Ph.D. candidate at Arizona 
 
 Education
 ======
-* B.S. in Huazhong University of Science and Technology, 2014
-* M.S. in Arizona State University, 2015
 * Ph.D. in Arizona State University, 2024
+* M.S. in Arizona State University, 2015
+* B.S. in Huazhong University of Science and Technology, 2014
 
 Publications
 ======
+* Ye, J., Liu, M., Hu, J., & Oswald, J. (2025). Influence of Topological Segment Length on the Mechanical Properties of Semicrystalline Polyethylene: A Bias-Controlled Monte Carlo Approach. *Macromolecules* 2025 58, 2521-2533.
 * Liu, M., Ye, J., & Oswald, J. (2023). Coarse-grained molecular simulation of the role of curing rates on the structure and strength of polyurea. *Computational Materials Science*, 230, 112428.
 * Bachan, J., Ye, J., Jiang, X., Nguyen, T., Natarajan, M., Bremer, M., & Chan, C. (2024, June). Devastator: A Scalable Parallel Discrete Event Simulation Framework for Modern C++. In *Proceedings of the 38th ACM SIGSIM Conference on Principles of Advanced Discrete Simulation* (pp. 35-46).
 * Li, Y., Ye, J., Agrawal, V., & Oswald, J. (2024). Dependence of Thermally Activated Relaxation of Crystalline Stems on the Molecular Topology at Crystalline/Amorphous Interfaces in Polyethylene. *Journal of Chemical Theory and Computation*.
